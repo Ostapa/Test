@@ -1,0 +1,29 @@
+﻿/* make the caption of carousel in the middle of the page */
+.carousel-caption {
+    top:25%;
+    bottom: auto;
+    background: rgba(128, 128, 128, .4);
+}
+
+.item img {
+    width: 100%;
+}
+
+a.navbar-brand {
+    padding: 0;
+}
+
+.validationError {
+  color: #ed2727;
+}
+
+
+footer {
+    background: #3d4e72;
+    color: #f4f6f9;
+    height:200px;
+    bottom:0;
+    text-align: center;
+    padding-top:15px;
+}
+
