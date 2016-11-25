@@ -53,7 +53,7 @@
             </div>
             <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 well">
                 <!-- login form goes here -->
-                <div class="form-group"><!-- need to add validators here -->
+                <div class="form-group">
                     <label for="txtUsername">Username:</label>                 
                     <asp:TextBox ID="txtUsername" CssClass="form-control" runat="server" /> 
                      <div>
